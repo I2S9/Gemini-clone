@@ -1,8 +1,8 @@
-# Clone of Gemini AI API
+# ✨ Clone of Gemini AI API
 
-[Let's discover Gemini AI](https://gemini.google.com/)
+[Let's discover Gemini AI | Gemini AI Website chatbot](https://gemini.google.com/)
 
-**Missions:**
+## Missions
 
 - Built the UI/UX of the website (as same as Gemini AI)
 
