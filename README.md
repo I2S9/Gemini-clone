@@ -1,3 +1,5 @@
+> ⚠️ Note: this project is under construction (c'est horrible pour le moment mais tktt ;))
+
 # ✨ Clone of Gemini AI API
 
 [Let's discover Gemini AI | Gemini AI Website chatbot](https://gemini.google.com/)
