@@ -11,3 +11,15 @@
 - Create Interactive chat app using Gemini API
 
 - Customize the chatbot (further step)
+
+## Get started 
+
+1. `git clone git@github.com:I2S9/Gemini-clone.git` 
+
+2. `cd Gemini-clone`
+
+3. `npm install`
+
+4. `npm start`
+
+5. `npm install @google/generative-ai`
