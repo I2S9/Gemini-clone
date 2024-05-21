@@ -61,7 +61,7 @@ Follow these steps to set up and run the project on your local machine.
 
 Once the server is running, you can access the application by navigating to http://localhost:3000 in your own web browser. You should see the Gemini AI clone interface and be able to interact with the chatbot.
 
-## Further Customization
+## Further Step
 
 You can customize the chatbot by modifying the configurations and code in the src directory. Refer to the [Google Gemini API Documentation](https://ai.google.dev/gemini-api/docs?hl=en) for more details on the available features and customization options.
 Contributing
